@@ -1,0 +1,22 @@
+{
+  "name": "project-litelement",
+  "version": "1.0.0",
+  "description": "Proyecto desarrollado con LitElement cuyo objetivo es conocer sobre esta tecnología.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrithBarboza/Project-LitElement.git"
+  },
+  "author": "Briggtte Barboza N.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrithBarboza/Project-LitElement/issues"
+  },
+  "homepage": "https://github.com/BrithBarboza/Project-LitElement#readme",
+  "dependencies": {
+    "lit-element": "^3.2.2"
+  }
+}
