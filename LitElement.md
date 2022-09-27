@@ -27,3 +27,9 @@ Lit-HTML ofrece rendimiento mayor que cualquiera de los frameworks más populare
 
 LitElement es la evolución de Polymer. Se han centrado en lo que se puede desarrollar con JS.
 Puedo desarrollar componentes en LitElement y luego reutilizarlo en mis otros proyectos como un componente más.
+
+
+## 📍3. Términos
+
+- ShadowRoot: Es la raíz del pequeño componente que creamos en el archivo. Está encapsulado en el shadowDOM.
+- 
