@@ -31,5 +31,5 @@ Puedo desarrollar componentes en LitElement y luego reutilizarlo en mis otros pr
 
 ## 📍3. Términos
 
-- ShadowRoot: Es la raíz del pequeño componente que creamos en el archivo. Está encapsulado en el shadowDOM.
-- 
+- ShadowRoot: Es la raíz del pequeño componente que creamos en el archivo. Está encapsulado en el shadow DOM.
+- Shadow DOM: En el árbol del DOM existen diferentes nodos, uno de ellos puede contener a otro árbol, a este llamamos Shadow DOM, es útil puesto que nos permite aislar los estilos de modo que no afecten a los otros elementos que están fuera del shadow DOM.
